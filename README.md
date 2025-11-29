@@ -2,7 +2,7 @@
 
 ![Banner](.github/assets/banner.jpg)
 
-![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.0-blue)
+![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.3-blue)
 ![WordPress Compatibility](https://img.shields.io/badge/wordpress-5.0%2B-green)
 ![PHP Version](https://img.shields.io/badge/php-7.2%2B-purple)
 ![License](https://img.shields.io/badge/license-GPL--2.0-orange)
