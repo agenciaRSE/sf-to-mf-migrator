@@ -3,7 +3,7 @@
  * Plugin Name: Simple Favorites to My Favorites Migrator
  * Plugin URI: https://github.com/agenciarse/sf-to-mf-migrator
  * Description: Complete migration tool from Simple Favorites to My Favorites plugin. Migrates user favorites, replaces shortcodes, and cleans up old data safely.
- * Version: 1.0.0
+ * Version: 1.0.2
  * Author: AGENCIA RSE
  * Author URI: https://agenciarse.com
  * License: GPL v2 or later
@@ -176,7 +176,7 @@ class SF_To_MF_Migrator {
                     </li>
                     <li>
                         <span class="dashicons dashicons-yes"></span>
-                        <?php _e('<strong>My Favorites</strong> plugin by WPDevelopers is installed and activated', 'sf-to-mf-migrator'); ?>
+                        <?php _e('<strong>My Favorites</strong> plugin By Takashi Matsuyama is installed and activated', 'sf-to-mf-migrator'); ?>
                     </li>
                     <li>
                         <span class="dashicons dashicons-yes"></span>
@@ -289,7 +289,7 @@ class SF_To_MF_Migrator {
                                 <tr>
                                     <td><code>[user_favorites]</code></td>
                                     <td>→</td>
-                                    <td><code>[ccc_my_favorite_list_menu]</code></td>
+                                    <td><code>[ccc_my_favorite_list_results]</code></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -728,7 +728,7 @@ class SF_To_MF_Migrator {
         
         $replacements = array(
             '[favorite_button]' => '[ccc_my_favorite_select_button]',
-            '[user_favorites]' => '[ccc_my_favorite_list_menu]'
+            '[user_favorites]' => '[ccc_my_favorite_list_results]'
         );
         
         $total_replaced = 0;
