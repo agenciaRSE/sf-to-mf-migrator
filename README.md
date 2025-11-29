@@ -1,6 +1,6 @@
 # Simple Favorites to My Favorites Migrator
 
-![Banner](.github/assets/banner.png)
+![Banner](.github/assets/banner.jpg)
 
 ![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![WordPress Compatibility](https://img.shields.io/badge/wordpress-5.0%2B-green)
