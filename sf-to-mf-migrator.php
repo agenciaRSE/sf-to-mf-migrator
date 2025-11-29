@@ -3,7 +3,7 @@
  * Plugin Name: Simple Favorites to My Favorites Migrator
  * Plugin URI: https://github.com/agenciarse/sf-to-mf-migrator
  * Description: Complete migration tool from Simple Favorites to My Favorites plugin. Migrates user favorites, replaces shortcodes, and cleans up old data safely.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: AGENCIA RSE
  * Author URI: https://agenciarse.com
  * License: GPL v2 or later
@@ -176,7 +176,7 @@ class SF_To_MF_Migrator {
                     </li>
                     <li>
                         <span class="dashicons dashicons-yes"></span>
-                        <?php _e('<strong>My Favorites</strong> plugin by WPDevelopers is installed and activated', 'sf-to-mf-migrator'); ?>
+                        <?php _e('<strong>My Favorites</strong> plugin By Takashi Matsuyama is installed and activated', 'sf-to-mf-migrator'); ?>
                     </li>
                     <li>
                         <span class="dashicons dashicons-yes"></span>
