@@ -6,10 +6,12 @@
 ![WordPress Compatibility](https://img.shields.io/badge/wordpress-5.0%2B-green)
 ![PHP Version](https://img.shields.io/badge/php-7.2%2B-purple)
 ![License](https://img.shields.io/badge/license-GPL--2.0-orange)
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+![Status](https://img.shields.io/badge/status-archived-lightgrey)
 ![GitHub stars](https://img.shields.io/github/stars/agenciaRSE/sf-to-mf-migrator?style=social)
 
 A comprehensive WordPress plugin to migrate user favorites from Simple Favorites to My Favorites plugin with complete data integrity and shortcode replacement.
+
+> **Archived.** This repository is read-only and kept as a reference. You can still fork it and adapt it to your own migration.
 
 ---
 
